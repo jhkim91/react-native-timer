@@ -1,1 +1,1 @@
-# react-native-timer
+# react-native-timer & Redux
